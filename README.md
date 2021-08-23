@@ -1,22 +1,9 @@
 ### Hi there 👋
- 
-###  📫 2021目标
-* 精进React技术栈🌱
-* 少花钱😄多存钱
 
-![TUBB's GitHub stats](https://github-readme-stats.vercel.app/api?username=TUBB)
+I'm Pobi, a Full-Stack Developer, good at React and Android 🤖️
 
-<!--
-**TUBB/TUBB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently I'm working at [Namibox](https://www.namibox.com/), focus on web development 🛍️
 
-Here are some ideas to get you started:
+If you want to ask me anything, contact me with tubgbg@gmail.com 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![TUBB's GitHub stats](https://github-readme-stats.vercel.app/api?username=TUBB&count_private=true&hide_title=true&show_icons=true)
