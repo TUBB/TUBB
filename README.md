@@ -2,7 +2,7 @@
 
 I'm Pobi, a Full-Stack Developer, good at React and Android 🤖️
 
-Currently I'm working at [Namibox](https://www.namibox.com/), focus on web development 🛍️
+Currently I'm working at [howbuy](https://www.howbuy.com/), focus on web development 🛍️
 
 If you want to ask me anything, contact me with tubgbg@gmail.com 😄
 
